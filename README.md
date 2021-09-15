@@ -1,7 +1,6 @@
-![App Brewery Banner](https://github.com/londonappbrewery/Images/blob/master/AppBreweryBanner.png)
-
-
 # Magic 8 Ball 🎱
+>Fork of https://github.com/londonappbrewery/magic-8-ball-flutter with updated Flutter Code
+
 
 ## Our Goal
 
